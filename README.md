@@ -28,11 +28,12 @@ The UWM Latino Activism collection is a digital collection held by the Universit
 
 # Latino Community Demands
 
-<param-ve-image
-                label=""Spanish speaking students and community members attempt to use university services"
-                description=""Spanish speaking students and community members attempt to use university services"
-                license="public domain"
-                url="https://collections.lib.uwm.edu/digital/api/singleitem/image/uwmactivism/652/default.jpg">
+<param ve-image 
+       label="Girl with a Pearl Earring" 
+       description="painting by Johannes Vermeer" 
+       license="public domain" 
+       url="https://collections.lib.uwm.edu/digital/api/singleitem/image/uwmactivism/652/default.jpg">
+
 
 
 # Chapman Hall Takeover
