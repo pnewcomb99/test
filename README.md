@@ -5,7 +5,7 @@
 <param ve-config 
        title="Latino Activism at the University of Wisconsin-Milwaukee"
        author="UWM Digital Collections and Initiatives"
-       banner="https://cdm17272.contentdm.oclc.org/iiif/info/uwmactivism/53/manifest.json"
+       banner="https://cdm17272.contentdm.oclc.org/iiif/info/uwmactivism/manifest.json"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
