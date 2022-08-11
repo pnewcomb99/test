@@ -1,4 +1,6 @@
-
+<style>
+       background-color: #000000
+       </style>
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
@@ -39,7 +41,7 @@ The UWM Latino Activism collection is a digital collection held by the Universit
        
 <param ve-image fit="contain"
        label="Roberto Hernandez (left) and Jesus Salas (right) attempt to borrow library books" 
-       description="Spanish speaking students and community members attempt to use university services" 
+       description="Roberto Hernandez (left) and Jesus Salas (right) attempt to borrow library books" 
        license="public domain" 
        url="https://collections.lib.uwm.edu/digital/api/singleitem/image/uwmactivism/52/default.jpg">
        
