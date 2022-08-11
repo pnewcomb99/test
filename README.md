@@ -14,7 +14,7 @@
 <param ve-entity eid="Q1755318"> <!-- University of Wisconsin-Milwaukee -->
 
 
-# UWM Latino Activism
+# UWM Latino Activism Digital Collection
 
 University of Wisconsin-Milwaukee This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
@@ -31,7 +31,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://cdm17272.contentdm.oclc.org/iiif/info/uwmactivism/40/manifest.json">
 
 ## Map
 
