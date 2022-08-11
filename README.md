@@ -27,8 +27,7 @@ The UWM Latino Activism collection is a digital collection held by the Universit
 # Growing Milwaukee Latino Community 
 
 <param ve-video
-	id="C0CIRCjoICA"
-	title="Sylbo, The Last Speakers of the Lost Whistling Language.">
+iframe width="560" height="315" src="https://www.youtube.com/embed/YgbBxBY0EkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 The Latino community in Milwaukee had grown steadily since the turn of the twentieth century, and by 1970 there was a vibrant population of at least 30,000 in the city. This community faced an array of urban social issues, including unemployment, competition for housing, lack of social programs, and under-representation in educational institutions. Although a number of Latinos worked for the University of Wisconsin-Milwaukee, only 12 students were enrolled during the 1970-1971 academic year. Many Latino activists attributed this low enrollment to a lack of support at the university: few administrators or advisers spoke Spanish; there existed no support center for Latino students; and there was no means of transportation to the Kenwood campus. The absence of these resources provided very little incentive for Latino students to enroll at UWM.
 
