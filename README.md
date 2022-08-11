@@ -5,7 +5,7 @@
 <param ve-config 
        title="Latino Activism at the University of Wisconsin-Milwaukee"
        author="UWM Digital Collections and Initiatives"
-       banner="https://collections.lib.uwm.edu/digital/collection/uwmactivism/id/40/rec/81"
+       banner="https://collections.lib.uwm.edu/digital/api/singleitem/image/uwmactivism/53/default.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
