@@ -38,6 +38,12 @@ The UWM Latino Activism collection is a digital collection held by the Universit
        url="https://collections.lib.uwm.edu/digital/api/singleitem/image/uwmactivism/652/default.jpg">
        
 <param ve-image fit="contain"
+       label="Spanish speaking students and community members attempt to use university services" 
+       description="Spanish speaking students and community members attempt to use university services" 
+       license="public domain" 
+       manifest="https://collections.lib.uwm.edu//digital/iiif-info/uwmactivism/588/manifest.json">
+       
+<param ve-image fit="contain"
        label="Roberto Hernandez (left) and Jesus Salas (right) attempt to borrow library books" 
        description="Roberto Hernandez (left) and Jesus Salas (right) attempt to borrow library books" 
        license="public domain" 
@@ -48,6 +54,9 @@ The UWM Latino Activism collection is a digital collection held by the Universit
        description="Page 1 of The UWM Post, volume 15, number 10 from October 20, 1970 with headline article "Chapman hall occupied: Latins stage sit in; Agreement reached"
        license="public domain" 
        manifest=https://collections.lib.uwm.edu//digital/iiif-info/uwmpost/453/manifest.json>
+                              
+                              
+                              
 
 
 
