@@ -22,7 +22,7 @@ yfkj jhsgdfh adgfkjhsgdfhyfkj jhsgdfh adgfkjhsgdfhyfkj jhsgdfh adgfkjhsgdfhyfkj 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://collections.lib.uwm.edu/digital/api/singleitem/image/uwmactivism/636/default.jpg">
 
 # Latino Community Demands
 # Chapman Hall Takeover
