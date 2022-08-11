@@ -25,6 +25,12 @@ The UWM Latino Activism collection is a digital collection held by the Universit
        url="https://collections.lib.uwm.edu/digital/api/singleitem/image/uwmactivism/636/default.jpg">
 
 # Growing Milwaukee Latino Community 
+<parem ve-video 
+       id="YgbBxBY0EkQ">
+
+The Latino community in Milwaukee had grown steadily since the turn of the twentieth century, and by 1970 there was a vibrant population of at least 30,000 in the city. This community faced an array of urban social issues, including unemployment, competition for housing, lack of social programs, and under-representation in educational institutions. Although a number of Latinos worked for the University of Wisconsin-Milwaukee, only 12 students were enrolled during the 1970-1971 academic year. Many Latino activists attributed this low enrollment to a lack of support at the university: few administrators or advisers spoke Spanish; there existed no support center for Latino students; and there was no means of transportation to the Kenwood campus. The absence of these resources provided very little incentive for Latino students to enroll at UWM.
+
+Officials from the UWM School of Education began outreach efforts in the late 1960s, working with the newly established Committee for the Education of Latin Americans (CELA) to develop plans for a Spanish Speaking Outreach Institute (SSOI) to be housed within the school. It quickly became apparent to education administrators, however, that the proposed scope of such an institute was beyond the ability of the School of Education to implement, and they suggested that Latino activists take their proposals directly to the Office of the Chancellor. Members of CELA, led by Roberto Hernandez, did just that, staging sit-ins, protests, and camp outs at the office of J. Martin Klotsche during the late summer and fall of 1970. Their efforts proved fruitful: in November 1970, UWM opened its Spanish Speaking Outreach Institute, a forerunner of today's Roberto Hernandez Center.
 
 # Latino Community Demands
 
