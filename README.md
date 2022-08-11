@@ -44,21 +44,10 @@ The UWM Latino Activism collection is a digital collection held by the Universit
        manifest="https://collections.lib.uwm.edu//digital/iiif-info/uwmactivism/588/manifest.json">
        
 <param ve-image fit="contain"
-       label="Roberto Hernandez (left) and Jesus Salas (right) attempt to borrow library books" 
+       label="Roberto Hernandez, left, and Jesus Salas, right, attempt to borrow library books" 
        description="Roberto Hernandez (left) and Jesus Salas (right) attempt to borrow library books" 
        license="public domain" 
-       url="https://collections.lib.uwm.edu/digital/api/singleitem/image/uwmactivism/52/default.jpg">
-       
-<param ve-image fit="contain"
-       label="Page 1 of UWM Post vol. 15, number 10 from Oct. 20, 1970"
-       description="Page 1 of The UWM Post, volume 15, number 10 from October 20, 1970 with headline article "Chapman hall occupied: Latins stage sit in; Agreement reached"
-       license="public domain" 
-       manifest=https://collections.lib.uwm.edu//digital/iiif-info/uwmpost/453/manifest.json>
-                              
-                              
-                              
-
-
+       manifest="https://collections.lib.uwm.edu//digital/iiif-info/uwmactivism/52/manifest.json">
 
 # Chapman Hall Takeover
 
@@ -67,6 +56,11 @@ The UWM Latino Activism collection is a digital collection held by the Universit
 
 <param ve-iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2370711/sp/237071100/embedIframeJs/uiconf_id/42910141/partner_id/2370711?iframeembed=true&playerId=kaltura_player&entry_id=1_65v3fvml&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[mediaProxy.mediaPlayFrom]=2584&amp;flashvars[mediaProxy.mediaPlayTo]=4073&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_ffv958ov" width="900" height="507" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="UWMAC116_Baez_Tony_2020.07.23.mp4">
 
+<param ve-image fit="contain"
+       label="Page 1 of UWM Post vol. 15, number 10 from Oct. 20, 1970"
+       description="Page 1 of The UWM Post, volume 15, number 10 from October 20, 1970 with headline article "Chapman hall occupied: Latins stage sit in; Agreement reached"
+       license="public domain" 
+       manifest=https://collections.lib.uwm.edu//digital/iiif-info/uwmpost/453/manifest.json>
 
 
 # University Response
