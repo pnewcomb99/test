@@ -24,8 +24,14 @@ The UWM Latino Activism collection is a digital collection held by the Universit
        license="public domain" 
        url="https://collections.lib.uwm.edu/digital/api/singleitem/image/uwmactivism/636/default.jpg">
 
+# Growing Milwaukee Latino Community 
+
 # Latino Community Demands
 
+<param-ve-image
+                label=""Spanish speaking students and community members attempt to use university services"
+                description=""Spanish speaking students and community members attempt to use university services"
+                url="https://collections.lib.uwm.edu/digital/api/singleitem/image/uwmactivism/652/default.jpg">
 
 
 # Chapman Hall Takeover
