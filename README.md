@@ -35,7 +35,7 @@ The UWM Latino Activism collection is a digital collection held by the Universit
        label="Spanish speaking students and community members attempt to use university services" 
        description="Spanish speaking students and community members attempt to use university services" 
        license="public domain" 
-       url="https://collections.lib.uwm.edu/digital/api/singleitem/image/uwmactivism/652/default.jpg">
+       manifest="https://collections.lib.uwm.edu//digital/iiif-info/uwmactivism/652/manifest.json">
        
 <param ve-image fit="contain"
        label="Spanish speaking students and community members attempt to use university services" 
