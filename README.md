@@ -1,11 +1,11 @@
-# test
+
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
        title="Latino Activism at the University of Wisconsin-Milwaukee"
        author="UWM Digital Collections and Initiatives"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://cdm17272.contentdm.oclc.org/iiif/info/uwmactivism/53/manifest.json"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -14,7 +14,7 @@
 <param ve-entity eid="Q1755318"> <!-- University of Wisconsin-Milwaukee -->
 
 
-# Sample visual essay
+# UWM Latino Activism
 
 University of Wisconsin-Milwaukee This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
