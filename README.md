@@ -31,9 +31,9 @@ The UWM Latino Activism collection is a digital collection held by the Universit
 The UWM Latino Activism collection is a digital collection held by the University of Wisconsin-Milwaukee Libraries. Within the collection is approximately 300 digitized photographs, correspondence, flyers, and oral histories. The collection details the history of Latino activism at UWM in the early 70s and the founding of the Spanish-Speaking Outreach Institute (SSOI), later renamed the Roberto Hernandez Center (RHC).
 The UWM Latino Activism collection is a digital collection held by the University of Wisconsin-Milwaukee Libraries. Within the collection is approximately 300 digitized photographs, correspondence, flyers, and oral histories. The collection details the history of Latino activism at UWM in the early 70s and the founding of the Spanish-Speaking Outreach Institute (SSOI), later renamed the Roberto Hernandez Center (RHC).
 
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+<param ve-image fit="contain"
+       label="Spanish speaking students and community members attempt to use university services" 
+       description="Spanish speaking students and community members attempt to use university services" 
        license="public domain" 
        url="https://collections.lib.uwm.edu/digital/api/singleitem/image/uwmactivism/652/default.jpg">
 
